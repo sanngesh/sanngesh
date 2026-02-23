@@ -12,7 +12,7 @@ MSc Financial Technology student from the University of Warwick and BTech Engine
 * **Languages & ML Frameworks:** Python (NumPy, Pandas, Scikit-Learn, PyTorch, TensorFlow, Keras), SQL, PySpark, R
 * **GenAI & AI Tooling:** LangChain, LangGraph, Vector Databases (FAISS, Pinecone, ChromaDB), RAG Pipelines, Prompt Engineering
 * **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn, Excel
-* **Key Skills:** Supervised & Unsupervised ML, Predictive Modeling, Deep Learning, Feature Engineering, MLOps, LLM Applications & Agents, Transformer Models
+* **Key Skills:** Supervised & Unsupervised ML, Predictive Modeling, Deep Learning, Reinforcement Learning, Feature Engineering, MLOps, LLM Applications & Agents, Transformer Models
 
 
 ### Key Coursework
